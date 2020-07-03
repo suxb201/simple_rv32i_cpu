@@ -24,8 +24,8 @@
 | srl  |  R   |    右移    |
 
 ## 参考
-- 教你写一个简单的CPU
-- The RV32I Processor / Altera Quartus Tutorial
+- [教你写一个简单的CPU](https://www.bilibili.com/video/BV1pK4y1C7es)
+- [The RV32I Processor / Altera Quartus Tutorial](https://courses.engr.illinois.edu/ece411/fa2018/mp/riscv_mp0/mp0.pdf)
 - https://github.com/nobotro/fpga_riscv_cpu
 - https://github.com/Yuandiaodiaodiao/a-sample-cpu
 - https://github.com/Michaelvll/RISCV_CPU
