@@ -1,6 +1,7 @@
 # simple_rv32i_cpu
-🖥 计组课设：rv32i 指令集的简单实现
+🖥 计组课设：rv32i 指令集的简单实现！
 
+![](./doc/quartus.png)
 ## 流水线分割
 - IF：取指
 - ID：译码
